@@ -82,7 +82,7 @@ This is a list of external resources that you may find helpful throughout (and a
 ### Regression Modeling in R
 * [*Big Data in Economics* Lecture 8: Regression Analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html) (Grant McDermott).
 * [Lab 4: Regression with R](https://raw.githack.com/edrubin/EC525S19/master/NotesLab/04RReg/04RReg.html) (Ed Rubin).
-* [*ISLR* Ch. 7: Moving Beyond Linearity](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) (). Polynomial regressions, step functions, splines.
+* [*ISLR* Ch. 7: Moving Beyond Linearity](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) (James, Witten, Hastie, Tibshirani). Polynomial regressions, step functions, splines.
 * DataCamp tutorials (free for 6 months for enrolled students):
   - [Introduction to Regression in R](https://learn.datacamp.com/courses/introduction-to-regression-in-r)
   - [Intermediate Regression in R](https://learn.datacamp.com/courses/intermediate-regression-in-r)
