@@ -13,7 +13,7 @@ This is a list of external resources that you may find helpful throughout (and a
 * [*Modern Data Science with R* Appendix B: Introduction to R and RStudio](https://mdsr-book.github.io/mdsr2e/ch-R.html) (Baumer, Kaplan, and Horton). Installation, help, objects, vectors, indexing, operators, lists, matrices, data frames, attributes and classes, functions, packages.
 * [R Fundamentals: Parts 1 & 2](https://github.com/dlab-berkeley/R-Fundamentals) (UC Berkeley D-Lab). Scripts. Part 1: RStudio, variable assignment, logic, data classes, data frames. Part 2: Loading data, subsetting and combining data.
 * [*Big Data in Economics* Lecture 4: R Language Basics](https://raw.githack.com/uo-ec607/lectures/master/04-rlang/04-rlang.html) (Grant McDermott). Slides. Logic, evaluation, assignment, help, objects, names, indexing, lists.
-* [Cheat Sheet: Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf) (RStudio).
+* [Cheat Sheet: Base R](https://raw.githubusercontent.com/rstudio/cheatsheets/main/base-r.pdf) (RStudio).
 * DataCamp tutorials:
   - [Introduction to R](https://learn.datacamp.com/courses/introduction-to-writing-functions-in-r) (free to everyone)
   - [Intermediate R](https://learn.datacamp.com/courses/intermediate-r) (free for 6 months for enrolled students)
@@ -27,7 +27,7 @@ This is a list of external resources that you may find helpful throughout (and a
 ### R Markdown
 * [Intro to R Markdown](https://slides.djnavarro.net/starting-rmarkdown/) (Danielle Navarro). Nice overview of why we're using R Markdown, and examples of how to use it.
 * [Using R Markdown for Class Assignments](https://ntaback.github.io/UofT_STA130/Rmarkdownforclassreports.html) (Nate Taback). A pretty quick overview.
-* [Cheat Sheet: R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown.pdf) (RStudio). Most of what you want to know on 2 pages.
+* [Cheat Sheet: R Markdown](https://raw.githubusercontent.com/rstudio/cheatsheets/main/rmarkdown.pdf) (RStudio). Most of what you want to know on 2 pages.
 * [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf) (RStudio). A bit more comprehensive than the cheat sheet.
 * [*R for Data Science* Ch. 27: R Markdown](https://r4ds.had.co.nz/communicate-intro.html) (Hadley Wickham). Comprehensive introduction.
 
@@ -37,9 +37,9 @@ This is a list of external resources that you may find helpful throughout (and a
 * [*Modern Data Science with R* Chapters 4-6](https://mdsr-book.github.io/mdsr2e/ch-dataI.html) (Baumer, Kaplan, and Horton). Chapter 4: Data wrangling with dplyr. Chapter 5: Joins. Chapter 6: Tidy data and tidyr.
 * [*ModernDive* Chapter 3: Data Wrangling](https://moderndive.com/3-wrangling.html) (Ismay & Kim). Data wrangling with dplyr.
 * RStudio Cheat Sheets:
-  - [Data Transformation with dplyr](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
-  - [Data Tidying with tidyr](https://github.com/rstudio/cheatsheets/raw/master/tidyr.pdf)
-  - [Data import with the tidyverse](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+  - [Data Transformation with dplyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf)
+  - [Data Tidying with tidyr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/tidyr.pdf)
+  - [Data import with the tidyverse](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-import.pdf)
 * DataCamp tutorials (free for 6 months for enrolled students):
   - [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)
   - [Data Manipulation with dplyr](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)
@@ -51,9 +51,9 @@ This is a list of external resources that you may find helpful throughout (and a
   - [Chapter 15: Factors](https://r4ds.had.co.nz/factors.html)
   - [Chapter 16: Dates and times](https://r4ds.had.co.nz/dates-and-times.html)
 * RStudio Cheat Sheets:
-  - [String manipulation with stringr](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
-  - [Factors with forcats](https://github.com/rstudio/cheatsheets/raw/master/factors.pdf)
-  - [Dates and Times with lubridate](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf)
+  - [String manipulation with stringr](https://raw.githubusercontent.com/rstudio/cheatsheets/main/strings.pdf)
+  - [Factors with forcats](https://raw.githubusercontent.com/rstudio/cheatsheets/main/factors.pdf)
+  - [Dates and Times with lubridate](https://raw.githubusercontent.com/rstudio/cheatsheets/main/lubridate.pdf)
 * [Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide).
 
 ### Best Practices for Coding and Workflows
@@ -73,7 +73,7 @@ This is a list of external resources that you may find helpful throughout (and a
 * [Data Visualization: A practical introduction](https://socviz.co/) (Kieran Healy). Online book for both principles and methods/examples.
 * [EC 425/525 Lab 5: Plotting in R](https://raw.githack.com/edrubin/EC525S19/master/NotesLab/05RPlot/05RPlot.html) (Ed Rubin).
 * [From Data to Viz](https://www.data-to-viz.com/) (Yan Holtz & Conor Healy). "Leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid."
-* [Cheat Sheet: Data visualization with ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization.pdf) (RStudio).
+* [Cheat Sheet: Data visualization with ggplot2](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf) (RStudio).
 * [An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles?id=10.1257/jep.28.1.209) (Jonathan Schwabish, *Journal of Economic Perspectives* 2014.)
 * DataCamp tutorials (free for 6 months for enrolled students):
   - [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2)
