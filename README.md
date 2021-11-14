@@ -87,5 +87,8 @@ This is a list of external resources that you may find helpful throughout (and a
   - [Introduction to Regression in R](https://learn.datacamp.com/courses/introduction-to-regression-in-r)
   - [Intermediate Regression in R](https://learn.datacamp.com/courses/intermediate-regression-in-r)
 
-
+### Basic Concepts of Machine Learning
+* [*ISLR* Ch. 2: Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) (James, Witten, Hastie, Tibshirani). Statistical learning, assessing model accuracy.
+* [*ISLR* Ch. 5: Resampling Methods](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) (James, Witten, Hastie, Tibshirani). Cross-validation, the bootstrap.
+* [Prediction Policy Problems](https://www.aeaweb.org/articles?id=10.1257/aer.p20151023) (Kleinberg, Ludwig, Mullainathan, and Obermeyer, *AEA Papers & Proceedings* 2015).
 
